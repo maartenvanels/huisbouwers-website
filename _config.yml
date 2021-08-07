@@ -5,7 +5,7 @@ description: "Huisbouwers!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://huisbouwers.nl/'
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-0G1WXCRRT9'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -14,22 +14,6 @@ email: lise@ariensvanels.nl
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
   lise:
     name: Lise
     display_name: Lise    
@@ -37,6 +21,13 @@ authors:
     email: lise@ariensvanels.nl
     web: https://huisbouwers.nl/
     description: "is the best"
+  maarten:
+    name: Maarten
+    display_name: Maarten    
+    avatar: 'assets/images/avatar.png'
+    email: maarten@ariensvanels.nl
+    web: https://huisbouwers.nl/
+    description: "is the best"    
   
 # Plugins
 plugins:
