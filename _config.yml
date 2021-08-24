@@ -1,34 +1,32 @@
 # Site
-name: "Huisbouwers"
-title: "Huisbouwers"
-description: "Huisbouwers!"
+name: "Memoirs"
+title: "Memoirs"
+description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://huisbouwers.nl/'
-google_analytics: 'G-0G1WXCRRT9'
+baseurl: /jekyll-theme-memoirs
+google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: lise@ariensvanels.nl
+email: info@ariensvanels.nl
 
 # Authors
 authors:
   lise:
     name: Lise
     display_name: Lise    
-    avatar: 'assets/images/avatar_lise.png'
+    avatar: '/assets/images/AvatarMaker.png'
     email: lise@ariensvanels.nl
-    web: https://huisbouwers.nl/
-    description: "is the best"
+    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
   maarten:
     name: Maarten
     display_name: Maarten    
     avatar: 'assets/images/avatar.png'
     email: maarten@ariensvanels.nl
-    web: https://huisbouwers.nl/
-    description: "is the best"    
-  
+    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+
 # Plugins
 plugins:
   - jekyll-paginate
