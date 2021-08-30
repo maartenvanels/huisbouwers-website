@@ -2,7 +2,7 @@
 layout: page
 title: Over ons
 
-permalink: /about
+permalink: /over
 comments: false
 image: assets/images/maartenenlise.jpg
 ---
