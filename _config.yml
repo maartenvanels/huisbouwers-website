@@ -2,8 +2,8 @@
 name: "Memoirs"
 title: "Memoirs"
 description: "Huisbouwers"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo_small.png'
+favicon: 'assets/images/logo_small.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
